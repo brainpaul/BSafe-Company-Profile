@@ -1,0 +1,38 @@
+.slider h3,
+.clients h3 {
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+    /* font-weight: bolder;
+    -webkit-text-stroke: 0.05em rgba(0, 0, 0, 0.5); */
+}
+
+.parallax-container {
+    height: 20%;
+}
+
+.slides img,
+.parallax img {
+    filter: grayscale(80%);
+}
+
+.clients img {
+    max-width: 150px;
+    margin-bottom: 2em;
+
+}
+
+section, footer {
+    padding: 20px 0;
+}
+
+.services ul {
+    font-size: 12.5px;
+}
+
+#services .card-panel {
+    height: 300px;
+}
+
+.logo   {
+    height: 25%;
+    width: 25%;
+}
